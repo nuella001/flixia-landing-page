@@ -374,6 +374,10 @@
   top: -200px;
   left: 20px;
 }
+.why-choose-us div svg.hero-gold{
+  top: -450px;
+  left: 1200px;
+}
 @media(max-width:450px)  {
   .counters div{
     width: 30%;
