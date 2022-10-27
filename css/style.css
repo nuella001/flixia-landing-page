@@ -182,7 +182,7 @@
 }
 
 .form .form-contain button:hover{
-  background-color: transparent;
+  /* background-color: transparent; */
   transition: .5s ease;
   color: black;
 }
